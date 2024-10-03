@@ -1,0 +1,27 @@
+.sobreSection {
+    display: flex;
+    align-items: center;
+    gap: 60px;
+    justify-content: space-between;
+}
+
+.textoSobre{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.textoSobre h5 {
+    color: #FF0000;
+    font-size: 24px;
+    font-weight: lighter;
+}
+
+.textoSobre h1 {
+    font-size: 48px;
+}
+
+.textoSobre p {
+    font-size: 20px;
+    line-height: 1.5;
+}
